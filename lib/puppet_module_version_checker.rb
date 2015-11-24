@@ -1,0 +1,3 @@
+module Puppet_module_version_checker
+
+end
